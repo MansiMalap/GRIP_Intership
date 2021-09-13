@@ -1,4 +1,4 @@
-# GRIP_Intership
+# GRIP Internship
 Author: Mansi Malap 
 The Sparks Foundation - Internship (September 2021)
 Data Science And Business Analytics Task 
